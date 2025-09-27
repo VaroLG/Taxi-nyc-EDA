@@ -1,2 +1,7 @@
 # Taxi-nyc-EDA
-EDA tarifas de taxi en Nueva York. Estracción, tratamiento, visualización de datos y construcción de modelos de regresión lineal múltiple.
+
+EDA tarifas de taxi en Nueva York. 
+
+Estracción, tratamiento, visualización de datos y construcción de modelos de regresión lineal múltiple y clasificación con Random Forest y XGBoost.
+
+
